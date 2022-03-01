@@ -2,6 +2,9 @@
 
 The goal of this mini game is to help the turtle to cross all the car objects without collision.
 
+Modules: turtle, random, time
+font : Retro Gaming
+
 Steps:
 
 1. Create the screen
@@ -17,4 +20,8 @@ Steps:
    1. cars will move from the right edge of the screen to the left edge.
 
 4. Detect when the player collides with a car
+
+5. Detect when the player reaches other side
+
+6. Create a score board with level up
 
